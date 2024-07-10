@@ -1,6 +1,6 @@
 # Fake News Detection Project
 
-<img src="https://socialify.git.ci/kapilsinghnegi/Fake-News-Detection/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark" alt="Fake-News-Detection" width="1280" height="320" />
+description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark" alt="Fake-News-Detection" width="1280" height="320" />
 
 
 The project aims to develop a machine-learning model capable of identifying and classifying any news article as fake or not. The distribution of fake news can potentially have highly adverse effects on people and culture. This project involves building and training a model to classify news as fake news or not using a diverse dataset of news articles. We have used four techniques to determine the results of the model.
@@ -54,27 +54,6 @@ pip install seaborn
 pip install re 
 ```
 
-## Usage
-
-1. Clone this repository to your local machine:
-
-```bash
-git clone https://github.com/kapilsinghnegi/Fake-News-Detection.git
-```
-
-2. Navigate to the project directory:
-
-```bash
-cd fake-news-detection
-```
-
-3. Execute the Jupyter Notebook or Python scripts associated with each classifier to train and test the models. For example:
-
-```bash
-python random_forest_classifier.py
-```
-
-4. The code will produce evaluation metrics and provide a prediction for whether the given news is true or false based on the trained model.
 
 ## Results
 
